@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "264264269545",
+    "project_id": "circuit-crm-e46fa",
+    "storage_bucket": "circuit-crm-e46fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264264269545:android:836f67bc2bcbe4901d7a78",
+        "android_client_info": {
+          "package_name": "com.example.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264264269545-nmnakcnopj1fuutfsugdfbnogaa7pdd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MRcTUISPbRNcG4PoFBZHISy_vkusr28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264264269545-nmnakcnopj1fuutfsugdfbnogaa7pdd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264264269545:android:b230742e7cdd81c91d7a78",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264264269545-nmnakcnopj1fuutfsugdfbnogaa7pdd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MRcTUISPbRNcG4PoFBZHISy_vkusr28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264264269545-nmnakcnopj1fuutfsugdfbnogaa7pdd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
